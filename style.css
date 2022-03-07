@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&family=Poppins:wght@300;400;700&display=swap');
+
+body {
+  height: 2000px;
+}
+
+.navbar,
+.jumbotron h1,
+h2 {
+  font-family: 'Pacifico', cursive;
+}
+
+.jumbotron {
+  padding-top: 5rem;
+  background-color: #e0f2ff;
+}
+
+.projects {
+  background-color: #e0f2ff;
+}
+
+#col-1 {
+  border-right: 2px solid #333;
+}
